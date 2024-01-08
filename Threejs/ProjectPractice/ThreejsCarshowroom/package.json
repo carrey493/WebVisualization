@@ -1,0 +1,23 @@
+{
+  "name": "threejscarshowroom",
+  "version": "1.0.0",
+  "description": "Three.js实现3D汽车展厅",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tweenjs/tween.js": "^20.0.3",
+    "lil-gui": "^0.19.1",
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
